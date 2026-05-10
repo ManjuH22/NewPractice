@@ -16,6 +16,8 @@ public class day2
 	public void day2SecondMethod()
 	{
 		System.out.println("day2 i am Second method");
+		System.out.println("git test phase 1");
+		System.out.println("git test phase 2");
 	}
 
 	@Test
