@@ -25,6 +25,9 @@ public class day2
 	{
 		System.out.println("day2 i am Third method");
 		System.out.println("git test phase retesting 1");
+		System.out.println("git test phase retesting 2");
+		System.out.println("git test phase retesting 3");
+		
 	}
 
 }
