@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="family">
+
+  <test thread-count="5" name="manju">
+   <packages>
+   <package name="test"/>
+   </packages>>
+  </test>
+  
+</suite>
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="family">
+	<parameter name="URL1" value="family.com" />
+	<listeners>
+		<listener class-name="test.Listeners" />
+	</listeners>
+	<test thread-count="5" name="manju">
+		<parameter name="URL" value="manju.com" />
+		<classes>
+			<class name="test.day1" />
+		</classes>
+	</test>
+
+	<test thread-cound="5" name="manoj">
+		<classes>
+			<class name="test.day2" />
+		</classes>
+	</test>
+
+</suite>
+
+
